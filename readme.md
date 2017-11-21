@@ -23,7 +23,7 @@ Install [go](https://golang.org/), ideally using [gvm](https://github.com/moovwe
 
 You can download this package and all dependencies via:
 
-	go get github.com/cdelorme/go-rathena-integration
+	go get github.com/rathena/trojan
 
 _This will download and build all dependencies, **but this project does not produce a binary.**_
 
