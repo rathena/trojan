@@ -27,6 +27,8 @@ You can download this package and all dependencies via:
 
 _This will download and build all dependencies, **but this project does not produce a binary.**_
 
+Next navigate your terminal to `$GOPATH/src/github.com/rathena/trojan` to begin running commands.
+
 
 ## integration
 
